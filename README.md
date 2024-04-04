@@ -12,7 +12,7 @@
 
 | STATS | LANGUAGES |
 | ------------ | ------------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=fazikahuhl&show_icons=true&theme=dark&hide_border=true&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazikahuhl&layout=compact&theme=dark&hide_border=true&locale=en" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=gaJordao&show_icons=true&theme=dark&hide_border=true&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaJordao&layout=compact&theme=dark&hide_border=true&locale=en" /> |
 </div>
 
 
